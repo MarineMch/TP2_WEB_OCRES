@@ -19,7 +19,7 @@ a {
 }
 
 .wrapper {
-    padding: 25px 0;
+    padding: 15px 0;
 }
 
 body > header {
@@ -29,7 +29,7 @@ body > header {
 }
 
 header .logo-search form  {
-    width: 50%;
+    width: 30%;
 }
 
 header .user {
@@ -172,7 +172,7 @@ input.submit {
 #albums article {
     font-size: 13px;
     color: #89949b;
-    margin: 10px 0;
+    margin: 1px 0;
 }
 
 #albums article img {
