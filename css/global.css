@@ -37,7 +37,7 @@ header .user {
 }
 
 header .user a {
-    font-size: 1rem;
+    font-size: 1.5rem;
     color: #89949b;
     padding-top: 5px;
 }
@@ -60,7 +60,7 @@ h3 {
 }
 
 nav ul li a { 
-    font-size: 1em;
+    font-size: 1.1em;
     font-weight: normal;
     color: #828c92;
 }
@@ -92,7 +92,7 @@ h1 {
 
 .name p { 
     color: #a0aab1;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 .name p img { 
@@ -123,7 +123,7 @@ h1 {
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 1.7em;
     font-weight: normal;
     color: #4b5c66;
 }
